@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(74, 45, 45);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.website-title {
+    color:rgb(94, 190, 158);
+    font-size: 50px;
+    text-align: center;
+    margin: 150px auto;    
+}
+
+ul{
+    list-style-type: none;  
+    font-size: 20px;
+    text-align: center;  
+    padding-inline-start: 0px;
+}
+
+li{
+    margin-bottom: 30px;
+}
+
+a {
+    color: rgb(212, 186, 186);
+    text-decoration: none;
+
+}
